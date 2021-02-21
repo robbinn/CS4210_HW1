@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Siwen Wang
+# FILENAME: find_s.py
+# SPECIFICATION: read the file contact_lens.csv and output the hypothesis of Find-S algorithm (the hypothesis you got in part a). The output should be in this format: [‘Sunny’, ‘?’, ‘Strong’, ‘?’].
 # FOR: CS 4200- Assignment #1
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 20 Minutes
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard vectors and arrays
